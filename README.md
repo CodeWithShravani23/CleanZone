@@ -54,6 +54,21 @@ npm start
 Live URL: [Coming Soon]
 Demo Video: [Coming Soon]
 
+---
+
+## ✅ Future Scope
+
+- 🛰️ **Integration with Real-Time Satellite or Drone Imagery:**  
+  Enable real-time detection and monitoring of unhygienic areas using drone or satellite feeds, especially for large urban zones or inaccessible locations.
+
+- 🤖 **Improved AI Model with Semantic Segmentation:**  
+  Upgrade the image classifier to use advanced semantic segmentation techniques for pixel-level accuracy in identifying garbage, potholes, and waterlogging zones.
+
+- 📱 **Android/iOS App for Rural Deployment:**  
+  Develop a cross-platform mobile application using React Native or Flutter to increase accessibility in rural or semi-urban areas with limited infrastructure.
+
+- 💬 **WhatsApp Bot Integration for Low-Tech Users:**  
+  Allow users to report issues via WhatsApp by sending a picture and location pin, making the platform inclusive for those without access to advanced smartphones or bro
 
 
 
