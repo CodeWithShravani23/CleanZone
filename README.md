@@ -40,6 +40,20 @@ cd server
 npm install
 node index.js
 
+### Frontend
+```bash
+cd client
+npm install
+npm start
+
+
+###🌍 Demo
+Live URL: [Coming Soon]
+Demo Video: [Coming Soon]
+
+
+
+
 
 
 
