@@ -40,6 +40,8 @@ cd server
 npm install
 node index.js
 
+---
+
 ### Frontend
 ```bash
 cd client
