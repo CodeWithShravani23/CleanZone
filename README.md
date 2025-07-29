@@ -39,7 +39,7 @@ CleanZone is a full-stack civic-tech web application that allows users to **repo
 cd server
 npm install
 node index.js
-
+```
 ---
 
 ### Frontend
@@ -47,7 +47,8 @@ node index.js
 cd client
 npm install
 npm start
-
+```
+---
 
 ###🌍 Demo
 Live URL: [Coming Soon]
