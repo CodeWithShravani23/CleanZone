@@ -50,9 +50,6 @@ npm start
 ```
 ---
 
-###🌍 Demo
-Live URL: [Coming Soon]
-Demo Video: [Coming Soon]
 
 ---
 
