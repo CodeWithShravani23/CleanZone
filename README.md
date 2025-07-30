@@ -50,9 +50,6 @@ npm start
 ```
 ---
 
-
----
-
 ## ✅ Future Scope
 
 - 🛰️ **Integration with Real-Time Satellite or Drone Imagery:**  
